@@ -1,0 +1,7 @@
+// Matheus Luiz Teixeira Silva 11311EMT025
+
+3. Desenvolva um programa que resolva o problema da torre de hanoi para um número n de discos, 
+passado como argumento de linha de comando, como no exercício anterior.
+Requisitos: Apresente os resultados da evolução da resolução a cada passo, no modo texto.
+Motivação: Gerenciamento de recursos para resolução de um problema computacional e interação 
+com o usuário para a apresentação de resultados.
